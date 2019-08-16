@@ -1,0 +1,11 @@
+#resizing{
+    height: 40%;
+    width:25%;
+    background-color:snow;
+    overflow:hidden;
+    border-style: outset;
+    margin-left: auto;
+  margin-right: auto;
+/*    margin-top:10%;*/
+  align-self: center;
+}
